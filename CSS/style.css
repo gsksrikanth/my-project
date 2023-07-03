@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.table-format {
+    /* width: 10%; */
+    text-align: center;
+    margin: auto;
+    margin-top: 180px;
+    border: 2px solid orangered;
+    /* height: 30%; */
+}
+
+.first-row {
+    height: 15px;
+}
+
+.cell-width {
+    width: 33px;
+
+}
+
+.cell-width-1 {
+    width: 33px;
+}
+
+.cell-number-color {
+    color: white;
+    background-color: cornflowerblue;
+}
+
+.cell-arithmetic {
+    color: black;
+    background-color: aquamarine;
+}
+
+.final-operation {
+    color: rgba(17, 22, 4, 0.301);
+    background-color: chartreuse;
+}
+
+.output-screen {
+    background-color: cadetblue;
+}
